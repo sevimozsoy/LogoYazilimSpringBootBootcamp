@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ec33ffde-3cc8-4582-a20e-1b29e9eb127e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/week1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_annotations_23_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/week1-project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week1-Project/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week1-Project/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week1-Project/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week1-Project/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week1-Project/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week1-Project/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week1-Project/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week1-Project/src/main/java/org/sevimozsoy/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week1-Project/src/main/java/org/sevimozsoy/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week1-Project/src/main/java/org/sevimozsoy/CustomerOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week1-Project/src/main/java/org/sevimozsoy/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week1-Project/src/main/java/org/sevimozsoy/OrderOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week1-Project/src/main/java/org/sevimozsoy/getAllInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week1-Project/src/test/java/org/sevimozsoy/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week1-Project/target/classes/org/sevimozsoy/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week1-Project/target/classes/org/sevimozsoy/Customer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week1-Project/target/classes/org/sevimozsoy/CustomerOperations.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week1-Project/target/classes/org/sevimozsoy/Order.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week1-Project/week1-Project.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2AZ7UuBYD2oK6lb0awnPiqWzX65" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/sevim/Desktop/logoSpringBootBootcamp/week1/week1-project",
+    "settings.editor.selected.configurable": "preferences.intentionPowerPack"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="org.sevimozsoy.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.sevimozsoy.App" />
+      <module name="week1-Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.sevimozsoy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.org.sevimozsoy.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ec33ffde-3cc8-4582-a20e-1b29e9eb127e" name="Changes" comment="" />
+      <created>1655205273091</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1655205273091</updated>
+      <workItem from="1655205274272" duration="3096000" />
+      <workItem from="1655237084801" duration="12535000" />
+      <workItem from="1655276176543" duration="29890000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
